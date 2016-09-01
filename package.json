@@ -11,5 +11,8 @@
     "url": "http://gitlab.imginconline.com/noinfopath/noinfopath-bson-timestamp.git"
   },
   "author": "The NoInfoPath Group, llc",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^2.2.9"
+  }
 }
