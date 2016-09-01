@@ -1,7 +1,7 @@
 # NoInfoPath BSON Timestamp
 
 This module provide two useful functions for converting a BSON Timestamp object 
-to something useful and back again.  
+to a Unix Epoc timestamp, and back again.  
 
 ## Install
 
@@ -14,4 +14,11 @@ to something useful and back again.
 ```
     var unixTimestamp = NoBSONTimestamp.toNumber(timestamp),
 	    bsonTimestamp = NoBSONTimestamp.fromNumber(tsn);
+```
+
+## Dependecies
+This module requires the following dependencies:
+
+```
+    npm install mongodb --save
 ```
