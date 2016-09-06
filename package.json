@@ -1,6 +1,6 @@
 {
   "name": "noinfopath-bson-timestamp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Makes BSON Timestamps usable.",
   "main": "index.js",
   "scripts": {
