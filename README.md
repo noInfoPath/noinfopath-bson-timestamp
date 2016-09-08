@@ -1,5 +1,7 @@
 # NoInfoPath BSON Timestamp
 
+[![NPM](https://nodei.co/npm-dl/noinfopath-bson-timestamp.png)](https://nodei.co/npm/noinfopath-bson-timestamp/)
+
 This module provide two useful functions for converting a BSON Timestamp object 
 to a Unix Epoc timestamp, and back again.  
 
