@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://gitlab.imginconline.com/noinfopath/noinfopath-bson-timestamp.git"
+    "url": "https://github.com/noInfoPath/noinfopath-bson-timestamp.git"
   },
   "author": "The NoInfoPath Group, llc",
   "license": "MIT",
